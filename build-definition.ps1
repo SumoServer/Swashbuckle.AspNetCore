@@ -2,7 +2,7 @@ Properties {
 
     # This number will be used to replace the * in all versions of all libraries.
     # This should be overwritten by a CI system like VSTS, AppVeyor, TeamCity, ...
-    $VersionSuffix = ""
+    $VersionSuffix = "rc50"
 
     # The build configuration used for compilation
     $BuildConfiguration = "Release"
